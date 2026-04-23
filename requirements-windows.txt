@@ -1,0 +1,10 @@
+numpy<2
+scipy
+matplotlib
+opencv-python
+pyyaml
+seaborn
+scikit-learn
+tensorboard
+setuptools<81
+torch==1.13.0

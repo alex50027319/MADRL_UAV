@@ -1,0 +1,8 @@
+{
+  "trainReturn/Episode/mean": "Train Return (Mean)",
+  "trainRewards/Episode/mean": "Train Reward (Mean)",
+  "Critic/Loss": "Critic Loss",
+  "Actor/Loss": "Actor Loss",
+  "re:^trainReturn/": "Train Return",
+  "re:^evalReturn/": "Eval Return"
+}
